@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/HelloWord/.vs/HelloWord/v16
+/HelloWord/HelloWord/obj/Debug
+/HelloWord/HelloWord.sln
